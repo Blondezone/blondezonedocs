@@ -46,4 +46,4 @@ Além disso, permite que desenvolvedores registrem seus próprios jogos, aumenta
 - Acesse localhost/seu-repositorio.
 
 ## 🌐 Site Estático
-Você pode visualizar a versão estática deste site em https://blondezone.github.io/blondezonedocs/.
+Você pode visualizar a versão estática deste site em https://blondezone.github.io/blondezonedocs/
