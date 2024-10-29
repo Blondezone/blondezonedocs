@@ -1,4 +1,4 @@
-# Plataforma de Hospedagem de Jogos 🎮
+# 🎮 Plataforma de Hospedagem de Jogos 
 
 Bem-vindo à plataforma de hospedagem de jogos! Este projeto permite que usuários hospedem, compartilhem e explorem jogos em um ambiente interativo e de fácil navegação.
 A aplicação foi desenvolvida com **HTML**, **CSS** e **JavaScript** para o frontend, e **PHP** para o backend, garantindo desempenho robusto e escalável.
