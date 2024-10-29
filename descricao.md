@@ -33,13 +33,15 @@ Além disso, permite que desenvolvedores registrem seus próprios jogos, aumenta
 
 - git clone https://github.com/seu-usuario/seu-repositorio.git
 
-- Configure o servidor local (XAMPP, WAMP ou outro):
+2. Configure o servidor local (XAMPP, WAMP ou outro):
 
 - Coloque o conteúdo deste repositório na pasta htdocs.
-- Importe o banco de dados:
+  
+3. Importe o banco de dados:
 
 - No phpMyAdmin, importe o arquivo .sql encontrado na pasta /database.
-- Execute o servidor e acesse o projeto:
+  
+4. Execute o servidor e acesse o projeto:
 
 - Acesse localhost/seu-repositorio.
 
