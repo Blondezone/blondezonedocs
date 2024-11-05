@@ -47,3 +47,10 @@ Além disso, permite que desenvolvedores registrem seus próprios jogos, aumenta
 
 ## 🌐 Site Estático
 Você pode visualizar a versão estática deste site em https://blondezone.github.io/blondezonedocs/
+
+## ✔ Links do Github dos Membros
+- https://github.com/ortigozafe
+- https://github.com/Kauan11962
+- https://github.com/Rafadu4rte
+- https://github.com/vnlopes
+- https://github.com/joelbrasil
